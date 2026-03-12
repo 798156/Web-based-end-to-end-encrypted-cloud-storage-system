@@ -58,7 +58,7 @@
 
 1.  进入项目根目录：
     ```bash
-    cd "c:\Users\liuji\Desktop\毕业设计"
+    cd "c:\Users\liuji\Desktop\fff"
     ```
 
 2.  创建并激活虚拟环境 (可选但推荐)：
@@ -122,7 +122,7 @@
 ## 📁 项目结构
 
 ```
-毕业设计/
+主目录/
 ├── app.py              # 后端 Flask 主程序
 ├── requirements.txt    # 后端依赖列表
 ├── instance/           # 存放 SQLite 数据库 (如果使用)

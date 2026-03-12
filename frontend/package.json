@@ -1,0 +1,25 @@
+{
+  "name": "encrypted-cloud-storage-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tsparticles/slim": "^3.9.1",
+    "@tsparticles/vue3": "^3.0.1",
+    "axios": "^1.6.0",
+    "echarts": "^6.0.0",
+    "element-plus": "^2.4.0",
+    "tsparticles": "^3.9.1",
+    "vue": "^3.3.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.5.0"
+  }
+}

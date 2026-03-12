@@ -76,7 +76,7 @@
     ```
 
 4.  配置数据库：
-    打开 `app.py`，找到数据库配置部分：
+    打开 `app.py`，找到数据库配置部分，记得更改成你们自己的账号和密码：
     ```python
     # 使用 MySQL (推荐)
     app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:password@localhost:3306/cloud_storage'
